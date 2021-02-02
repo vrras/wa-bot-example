@@ -1,0 +1,20 @@
+{
+  "name": "wa-bot-example",
+  "version": "1.0.0",
+  "description": "wa bot example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wa",
+    "bot",
+    "wa",
+    "bot"
+  ],
+  "author": "Firas Luthfi <firas.luthfi@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "venom-bot": "^2.2.3"
+  }
+}
